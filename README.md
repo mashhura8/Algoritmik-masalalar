@@ -1,0 +1,2 @@
+# Algoritmik-masalalar
+Masalalar yechimi!
