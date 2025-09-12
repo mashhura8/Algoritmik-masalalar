@@ -4,7 +4,7 @@ print("Salom", ism )
 
 
 # 2-masala
-yosh = "17"
+yosh = 17
 print("Mening yoshim", yosh)
 
 
