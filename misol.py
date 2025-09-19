@@ -46,7 +46,7 @@ a = int(input("1-sonni kiriting"))
 b = int(input("2-sonni kiriting"))
 son = a + b
 if son % 2:
-    print("Tig'indi juft")
+    print("Yig'indi juft")
 else:
     print("Yig'indi toq")
 
