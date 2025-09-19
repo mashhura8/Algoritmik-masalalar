@@ -51,7 +51,7 @@ print("Mening ismim" , ism , "yoshim" , yosh )
 a = 1
 b = 2
 c = 4
-print( "Sonning o'rtachasi" , a+b+c / 3)
+print( "Sonning o'rtachasi" , ( a+b+c ) / 3)
 
 
 
